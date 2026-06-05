@@ -30,7 +30,7 @@ This dashboard provides operational analytics for the UAC care pipeline:
 
 # Load Dataset
 
-df = pd.read_csv("C:/Desktop/care-transition-analytics/data/raw/uac_data.csv")
+df = pd.read_csv("data/raw/uac_data.csv")
 
 # Remove Empty Rows
 
