@@ -102,7 +102,6 @@ care-transition-analytics/
 │
 ├── data/
 ├── dashboard/
-├── notebooks/
 ├── reports/
 ├── screenshots/
 ├── requirements.txt
